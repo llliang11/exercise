@@ -2,5 +2,7 @@
     <string name="app_name">HttpDownload</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="target">Study http download technology</string>
+    <string name="content">Download Text</string>
     <string name="action_settings">Settings</string>
 </resources>
