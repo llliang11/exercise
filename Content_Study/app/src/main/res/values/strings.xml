@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Content_Study</string>
+
+    <string name="hello_world">Content provider practice!</string>
+    <string name="insert_person">Insert Person Info!</string>
+    <string name="query_person">query Person Info!</string>
+    <string name="action_settings">Settings</string>
+</resources>

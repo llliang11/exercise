@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Service_train</string>
+
+    <string name="hello_world">Service Study</string>
+    <string name="action_settings">Settings</string>
+    <string name="Start_btn">Start service</string>
+    <string name="Bind_btn">Bind service</string>
+</resources>
